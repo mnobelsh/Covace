@@ -9,23 +9,41 @@
 /* Begin PBXBuildFile section */
 		FF14E84C24F648F1005FDBDD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF14E84B24F648F1005FDBDD /* AppDelegate.swift */; };
 		FF14E84E24F648F1005FDBDD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF14E84D24F648F1005FDBDD /* SceneDelegate.swift */; };
-		FF14E85024F648F1005FDBDD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF14E84F24F648F1005FDBDD /* ViewController.swift */; };
 		FF14E85324F648F1005FDBDD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF14E85124F648F1005FDBDD /* Main.storyboard */; };
 		FF14E85624F648F1005FDBDD /* Covace.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FF14E85424F648F1005FDBDD /* Covace.xcdatamodeld */; };
 		FF14E85824F648F3005FDBDD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF14E85724F648F3005FDBDD /* Assets.xcassets */; };
 		FF14E85B24F648F3005FDBDD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF14E85924F648F3005FDBDD /* LaunchScreen.storyboard */; };
+		FF14E86624F64938005FDBDD /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF14E86524F64938005FDBDD /* HomeViewController.swift */; };
+		FF14E86924F6494D005FDBDD /* TraceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF14E86824F6494D005FDBDD /* TraceViewController.swift */; };
+		FF14E86C24F64976005FDBDD /* HelpCenterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF14E86B24F64976005FDBDD /* HelpCenterViewController.swift */; };
+		FF14E87124F6498C005FDBDD /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF14E87024F6498C005FDBDD /* SignUpViewController.swift */; };
+		FF14E87324F64998005FDBDD /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF14E87224F64998005FDBDD /* SignInViewController.swift */; };
+		FF14E87524F649A6005FDBDD /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF14E87424F649A6005FDBDD /* ProfileViewController.swift */; };
+		FF14E87924F64B26005FDBDD /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF14E87824F64B26005FDBDD /* Extensions.swift */; };
+		FF14E87C24F64D64005FDBDD /* LucidaGrande.ttc in Resources */ = {isa = PBXBuildFile; fileRef = FF14E87B24F64D64005FDBDD /* LucidaGrande.ttc */; };
+		FF14E87E24F6A846005FDBDD /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF14E87D24F6A846005FDBDD /* Service.swift */; };
+		FF14E88124F6B784005FDBDD /* ProfileImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF14E88024F6B784005FDBDD /* ProfileImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		FF14E84824F648F1005FDBDD /* Covace.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Covace.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF14E84B24F648F1005FDBDD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FF14E84D24F648F1005FDBDD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		FF14E84F24F648F1005FDBDD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FF14E85224F648F1005FDBDD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FF14E85524F648F1005FDBDD /* Covace.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Covace.xcdatamodel; sourceTree = "<group>"; };
 		FF14E85724F648F3005FDBDD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FF14E85A24F648F3005FDBDD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FF14E85C24F648F3005FDBDD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF14E86524F64938005FDBDD /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		FF14E86824F6494D005FDBDD /* TraceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TraceViewController.swift; sourceTree = "<group>"; };
+		FF14E86B24F64976005FDBDD /* HelpCenterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpCenterViewController.swift; sourceTree = "<group>"; };
+		FF14E87024F6498C005FDBDD /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		FF14E87224F64998005FDBDD /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		FF14E87424F649A6005FDBDD /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		FF14E87824F64B26005FDBDD /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		FF14E87B24F64D64005FDBDD /* LucidaGrande.ttc */ = {isa = PBXFileReference; lastKnownFileType = file; path = LucidaGrande.ttc; sourceTree = "<group>"; };
+		FF14E87D24F6A846005FDBDD /* Service.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
+		FF14E88024F6B784005FDBDD /* ProfileImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,9 +76,14 @@
 		FF14E84A24F648F1005FDBDD /* Covace */ = {
 			isa = PBXGroup;
 			children = (
+				FF14E86424F64917005FDBDD /* Model */,
+				FF14E86324F64914005FDBDD /* View */,
+				FF14E86224F6490C005FDBDD /* Controller */,
+				FF14E87624F64A57005FDBDD /* Utils */,
+				FF14E87724F64A60005FDBDD /* Service */,
+				FF14E87A24F64C9B005FDBDD /* Resources */,
 				FF14E84B24F648F1005FDBDD /* AppDelegate.swift */,
 				FF14E84D24F648F1005FDBDD /* SceneDelegate.swift */,
-				FF14E84F24F648F1005FDBDD /* ViewController.swift */,
 				FF14E85124F648F1005FDBDD /* Main.storyboard */,
 				FF14E85724F648F3005FDBDD /* Assets.xcassets */,
 				FF14E85924F648F3005FDBDD /* LaunchScreen.storyboard */,
@@ -68,6 +91,74 @@
 				FF14E85424F648F1005FDBDD /* Covace.xcdatamodeld */,
 			);
 			path = Covace;
+			sourceTree = "<group>";
+		};
+		FF14E86224F6490C005FDBDD /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				FF14E86D24F64978005FDBDD /* Auth */,
+				FF14E86524F64938005FDBDD /* HomeViewController.swift */,
+				FF14E86824F6494D005FDBDD /* TraceViewController.swift */,
+				FF14E86B24F64976005FDBDD /* HelpCenterViewController.swift */,
+				FF14E87424F649A6005FDBDD /* ProfileViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		FF14E86324F64914005FDBDD /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FF14E88024F6B784005FDBDD /* ProfileImage.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		FF14E86424F64917005FDBDD /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FF14E86D24F64978005FDBDD /* Auth */ = {
+			isa = PBXGroup;
+			children = (
+				FF14E87024F6498C005FDBDD /* SignUpViewController.swift */,
+				FF14E87224F64998005FDBDD /* SignInViewController.swift */,
+			);
+			path = Auth;
+			sourceTree = "<group>";
+		};
+		FF14E87624F64A57005FDBDD /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				FF14E87824F64B26005FDBDD /* Extensions.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		FF14E87724F64A60005FDBDD /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				FF14E87D24F6A846005FDBDD /* Service.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		FF14E87A24F64C9B005FDBDD /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FF14E87F24F6A850005FDBDD /* Fonts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		FF14E87F24F6A850005FDBDD /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				FF14E87B24F64D64005FDBDD /* LucidaGrande.ttc */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,6 +219,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF14E87C24F64D64005FDBDD /* LucidaGrande.ttc in Resources */,
 				FF14E85B24F648F3005FDBDD /* LaunchScreen.storyboard in Resources */,
 				FF14E85824F648F3005FDBDD /* Assets.xcassets in Resources */,
 				FF14E85324F648F1005FDBDD /* Main.storyboard in Resources */,
@@ -141,10 +233,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF14E86C24F64976005FDBDD /* HelpCenterViewController.swift in Sources */,
+				FF14E88124F6B784005FDBDD /* ProfileImage.swift in Sources */,
+				FF14E87124F6498C005FDBDD /* SignUpViewController.swift in Sources */,
 				FF14E85624F648F1005FDBDD /* Covace.xcdatamodeld in Sources */,
-				FF14E85024F648F1005FDBDD /* ViewController.swift in Sources */,
 				FF14E84C24F648F1005FDBDD /* AppDelegate.swift in Sources */,
+				FF14E87324F64998005FDBDD /* SignInViewController.swift in Sources */,
+				FF14E87924F64B26005FDBDD /* Extensions.swift in Sources */,
 				FF14E84E24F648F1005FDBDD /* SceneDelegate.swift in Sources */,
+				FF14E87524F649A6005FDBDD /* ProfileViewController.swift in Sources */,
+				FF14E87E24F6A846005FDBDD /* Service.swift in Sources */,
+				FF14E86924F6494D005FDBDD /* TraceViewController.swift in Sources */,
+				FF14E86624F64938005FDBDD /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

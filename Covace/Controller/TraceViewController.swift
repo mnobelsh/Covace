@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  TraceViewController.swift
 //  Covace
 //
 //  Created by Muhammad Nobel Shidqi on 26/08/20.
@@ -8,13 +8,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class TraceViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
     }
-
-
+    
 }
-
